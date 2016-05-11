@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "main": "index.js",
+  "authors": [
+    "Rangana Sampath <sampathrangana@gmail.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "0.14.7",
+    "jquery": "1.9"
+  }
+}
